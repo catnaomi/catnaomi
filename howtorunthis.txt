@@ -1,0 +1,6 @@
+howtorunthis
+
+- go to Instant WP on your portfolio folder (\Projects\portfolio\IWP-v5.3.6-Win)
+- run the Instant WP start bat (Start-InstantWP.bat)
+- use instant WP to edit site normally
+- when you're done, run --generate-static.bat (in the Github folder, not the WP folder)

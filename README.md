@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Cassandra Naomi Monden
+
+Artist & developer focused on interactive experiences and narratives. Currently seeking a full-time position creating installations, performances, and games. 
 
 <!--
 **catnaomi/catnaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
