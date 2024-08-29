@@ -271,7 +271,7 @@ h5 {
                 <ul id="menu-main-menu" class="uk-navbar-nav uk-visible@m"><li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li id="menu-item-374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume-1.pdf">Resume</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </div>
                                 </div>
                     <div class="uk-width-expand">
@@ -298,7 +298,7 @@ h5 {
 <main id="site-content" role="main">
 
 	
-<article id="post-127" class="post-127 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-software tag-azure-kinect tag-c-2 tag-microsoft-kinect tag-rokoko-smartsuit tag-unity">
+<article id="post-127" class="post-127 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-art-design category-software tag-azure-kinect tag-c-2 tag-microsoft-kinect tag-rokoko-smartsuit tag-unity">
 
 	
 <header class="entry-header">
@@ -309,11 +309,19 @@ h5 {
 			<div class="post-meta-wrapper post-meta-singular post-meta-singular-entry-header-top">
 
 									<div class="post-categories meta-wrapper">
-						<a href="http://127.0.0.1:10080/wordpress/category/3d-vr/" rel="category tag">3D &amp; Virtual Reality (XR)</a>, <a href="http://127.0.0.1:10080/wordpress/category/software/" rel="category tag">Software Development</a>					</div>
+						<a href="http://127.0.0.1:10080/wordpress/category/3d-vr/" rel="category tag">3D &amp; Virtual Reality (XR)</a>, <a href="http://127.0.0.1:10080/wordpress/category/art-design/" rel="category tag">Art &amp; Design</a>, <a href="http://127.0.0.1:10080/wordpress/category/software/" rel="category tag">Software Development</a>					</div>
 					
 			</div>
 
 			<h1 class="entry-title">LuminAI</h1>
+			<div class="post-meta-wrapper post-meta-singular post-meta-singular-entry-header-bottom">
+
+									<div class="post-sticky meta-wrapper">
+						Featured					</div>
+					
+			</div>
+
+			
 	</div> <!-- .container -->
 
 </header> <!-- .entry-header -->
@@ -321,7 +329,7 @@ h5 {
 	<figure class="featured-media">
 		<div class="featured-media-inner">
 
-			<img width="1278" height="1278" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png 1278w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-768x768.png 768w" sizes="(max-width: 1278px) 100vw, 1278px" />
+			<img width="1080" height="1080" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer.png 1080w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-768x768.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
 		</div> <!-- .featured-media-inner -->
 	</figure> <!-- .featured-media -->
 
@@ -345,11 +353,15 @@ h5 {
 
 
 
-<p>LuminAI now uses Holo-Gauze to project a virtual avatar, a near-invisible scrim. This creates the effect of an agent acting in 3D space around us, that can be moved around and interacted with in real spaces and performances.</p>
+<p>LuminAI was recently showcased at Kennesaw State University&#8217;s dance performance : &#8220;LuminAI&#8221; in May 2024.</p>
 
 
 
 <p>Publications:</p>
+
+
+
+<p>2024. Chengzhi Zhang, Chelsi Cocking, Milka Trajkova, Zoe Mock, Gemma Tate, Cassandra Naomi Monden, and Brian Magerko. Fostering AI Literacy with LuminAI through Embodiment and Creativity in Informal Learning Spaces. In Creativity and Cognition (C&amp;C 2024).</p>
 
 
 
@@ -363,7 +375,7 @@ h5 {
 
 
 <div class="wp-block-column right-column">
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png"><img loading="lazy" width="1024" height="1024" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png" alt="" data-id="475" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png" data-link="http://127.0.0.1:10080/wordpress/2024/luminai/gvu4/" class="wp-image-475" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png 1278w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1.png"><img loading="lazy" width="864" height="864" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1.png" alt="" data-id="457" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/avantsouth1/" class="wp-image-457" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1.png 864w, http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1-768x768.png 768w" sizes="(max-width: 864px) 100vw, 864px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu3.png"><img loading="lazy" width="470" height="470" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu3.png" alt="" data-id="460" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/gvu3/" class="wp-image-460" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu3.png 470w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu3-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu3-150x150.png 150w" sizes="(max-width: 470px) 100vw, 470px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-1024x576.png"><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-1024x576.png" alt="" data-id="132" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/screenshot01-2/" class="wp-image-132" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-1536x864.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01-1568x882.png 1568w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot01.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai.jpg"><img loading="lazy" width="750" height="563" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai.jpg" alt="" data-id="131" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/luminai/" class="wp-image-131" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai.jpg 750w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai-300x225.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-1024x576.png"><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-1024x576.png" alt="" data-id="134" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/screenshot05/" class="wp-image-134" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-1536x864.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05-1568x882.png 1568w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/screenshot05.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer.png"><img loading="lazy" width="1024" height="1024" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-1024x1024.png" alt="" data-id="503" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer.png" data-link="http://127.0.0.1:10080/wordpress/2024/luminai/luminai-flyer/" class="wp-image-503" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png"><img loading="lazy" width="1024" height="1024" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png" alt="" data-id="475" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png" data-link="http://127.0.0.1:10080/wordpress/2024/luminai/gvu4/" class="wp-image-475" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png 1278w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1.png"><img loading="lazy" width="864" height="864" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1.png" alt="" data-id="457" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/avantsouth1/" class="wp-image-457" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1.png 864w, http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/avantsouth1-768x768.png 768w" sizes="(max-width: 864px) 100vw, 864px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/luminaiperformance_2.png"><img loading="lazy" width="1024" height="683" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/luminaiperformance_2.png" alt="" data-id="498" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/luminaiperformance_2.png" data-link="http://127.0.0.1:10080/wordpress/2024/luminai/luminaiperformance_2/" class="wp-image-498" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/luminaiperformance_2.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/luminaiperformance_2-300x200.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/luminaiperformance_2-768x512.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai.jpg"><img loading="lazy" width="750" height="563" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai.jpg" alt="" data-id="131" data-link="http://127.0.0.1:10080/wordpress/2022/luminai/luminai/" class="wp-image-131" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai.jpg 750w, http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/luminai-300x225.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://127.0.0.1:10080/wordpress/wp-content/uploads/B153F525-B75D-4F38-AE32-3DFA6BC49108.jpg"><img loading="lazy" width="500" height="282" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/B153F525-B75D-4F38-AE32-3DFA6BC49108.jpg" alt="" data-id="500" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/B153F525-B75D-4F38-AE32-3DFA6BC49108.jpg" data-link="http://127.0.0.1:10080/wordpress/2024/luminai/b153f525-b75d-4f38-ae32-3dfa6bc49108/" class="wp-image-500" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/B153F525-B75D-4F38-AE32-3DFA6BC49108.jpg 500w, http://127.0.0.1:10080/wordpress/wp-content/uploads/B153F525-B75D-4F38-AE32-3DFA6BC49108-300x169.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></figure></li></ul></figure>
 
 
 
@@ -491,7 +503,7 @@ h5 {
                 <ul id="menu-main-menu-1" class="offcanvas-navigation uk-nav-default uk-nav-parent-icon" data-uk-nav><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume-1.pdf">Resume</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </nav>
         </div>
     </div>

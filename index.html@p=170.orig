@@ -75,9 +75,9 @@ var FOOBOX = window.FOOBOX = {
 <link rel="https://api.w.org/" href="http://127.0.0.1:10080/wordpress/wp-json/" /><link rel="alternate" type="application/json" href="http://127.0.0.1:10080/wordpress/wp-json/wp/v2/posts/170" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://127.0.0.1:10080/wordpress/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://127.0.0.1:10080/wordpress/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.8" />
-<link rel="canonical" href="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/" />
+<link rel="canonical" href="http://127.0.0.1:10080/wordpress/2024/the-blademistress-trials/" />
 <link rel='shortlink' href='http://127.0.0.1:10080/wordpress/?p=170' />
-<link rel="alternate" type="application/json+oembed" href="http://127.0.0.1:10080/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2F127.0.0.1%3A10080%2Fwordpress%2F2022%2Fthe-blademistress-trials%2F" />
+<link rel="alternate" type="application/json+oembed" href="http://127.0.0.1:10080/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2F127.0.0.1%3A10080%2Fwordpress%2F2024%2Fthe-blademistress-trials%2F" />
        <script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
        		<style id="wp-custom-css">
 			@media only screen and (max-width: 768px) {
@@ -271,7 +271,7 @@ h5 {
                 <ul id="menu-main-menu" class="uk-navbar-nav uk-visible@m"><li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li id="menu-item-374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume.pdf">Resume</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </div>
                                 </div>
                     <div class="uk-width-expand">
@@ -298,7 +298,7 @@ h5 {
 <main id="site-content" role="main">
 
 	
-<article id="post-170" class="post-170 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-art-design category-game-dev tag-blender tag-c-2 tag-maya tag-photoshop tag-unity">
+<article id="post-170" class="post-170 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-art-design category-game-dev category-software tag-blender tag-c-2 tag-maya tag-photoshop tag-unity">
 
 	
 <header class="entry-header">
@@ -309,11 +309,19 @@ h5 {
 			<div class="post-meta-wrapper post-meta-singular post-meta-singular-entry-header-top">
 
 									<div class="post-categories meta-wrapper">
-						<a href="http://127.0.0.1:10080/wordpress/category/3d-vr/" rel="category tag">3D &amp; Virtual Reality (XR)</a>, <a href="http://127.0.0.1:10080/wordpress/category/art-design/" rel="category tag">Art &amp; Design</a>, <a href="http://127.0.0.1:10080/wordpress/category/game-dev/" rel="category tag">Game Development</a>					</div>
+						<a href="http://127.0.0.1:10080/wordpress/category/3d-vr/" rel="category tag">3D &amp; Virtual Reality (XR)</a>, <a href="http://127.0.0.1:10080/wordpress/category/art-design/" rel="category tag">Art &amp; Design</a>, <a href="http://127.0.0.1:10080/wordpress/category/game-dev/" rel="category tag">Game Development</a>, <a href="http://127.0.0.1:10080/wordpress/category/software/" rel="category tag">Software Development</a>					</div>
 					
 			</div>
 
 			<h1 class="entry-title">The Blademistress Trials</h1>
+			<div class="post-meta-wrapper post-meta-singular post-meta-singular-entry-header-bottom">
+
+									<div class="post-sticky meta-wrapper">
+						Featured					</div>
+					
+			</div>
+
+			
 	</div> <!-- .container -->
 
 </header> <!-- .entry-header -->
@@ -321,7 +329,7 @@ h5 {
 	<figure class="featured-media">
 		<div class="featured-media-inner">
 
-			<img width="921" height="920" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-sq.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-sq.png 921w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-sq-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-sq-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-sq-768x767.png 768w" sizes="(max-width: 921px) 100vw, 921px" />
+			<img width="2160" height="2160" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1.jpg 2160w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-300x300.jpg 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-1024x1024.jpg 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-150x150.jpg 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-768x768.jpg 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-1536x1536.jpg 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-2048x2048.jpg 2048w" sizes="(max-width: 2160px) 100vw, 2160px" />
 		</div> <!-- .featured-media-inner -->
 	</figure> <!-- .featured-media -->
 
@@ -350,16 +358,20 @@ h5 {
 
 
 <p>Set in a world of floating islands, Mun, a young swordswoman meets an angel, Antiquity, and they depart on an adventure about time, immortality, apocalypse, and learning to let go.</p>
+
+
+
+<p>Coming soon to itch.io and Steam.</p>
 </div>
 
 
 
 <div class="wp-block-column right-column">
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="942" height="941" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq.png" alt="" data-id="429" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq.png" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=429" class="wp-image-429" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq.png 942w, http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq-768x767.png 768w" sizes="(max-width: 942px) 100vw, 942px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="888" height="889" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojowip-sq.png" alt="" data-id="430" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojowip-sq.png" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=430" class="wp-image-430" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojowip-sq.png 888w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojowip-sq-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojowip-sq-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojowip-sq-768x769.png 768w" sizes="(max-width: 888px) 100vw, 888px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq-1024x1024.png" alt="" data-id="431" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq.png" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=431" class="wp-image-431" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/mun-sq.png 1394w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-1024x1024.jpg" alt="" data-id="472" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1.jpg" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/mun-turnaround2160-frame-at-0m0s-1/" class="wp-image-472" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-1024x1024.jpg 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-300x300.jpg 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-150x150.jpg 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-768x768.jpg 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-1536x1536.jpg 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/Mun-Turnaround2160-frame-at-0m0s-1-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="942" height="941" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq.png" alt="" data-id="429" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq.png" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/antiquitywip-sq/" class="wp-image-429" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq.png 942w, http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/antiquitywip-sq-768x767.png 768w" sizes="(max-width: 942px) 100vw, 942px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered-1024x1024.png" alt="" data-id="473" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered.png" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/terrainskyisland-rendered/" class="wp-image-473" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/terrainskyisland-rendered.png 1116w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss04-1024x576.png" alt="" data-id="433" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=433" class="wp-image-433" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss04-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss04-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss04-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss04-1536x864.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss04.png 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss09-1024x576.png" alt="" data-id="435" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=435" class="wp-image-435" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss09-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss09-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss09-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss09-1536x864.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss09.png 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="574" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-1024x574.png" alt="" data-id="436" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02.png" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=436" class="wp-image-436" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-1024x574.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-300x168.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-768x431.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-1536x861.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss02-2048x1149.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss05-1024x576.png" alt="" data-id="434" data-link="http://127.0.0.1:10080/wordpress/?attachment_id=434" class="wp-image-434" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/ss05-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss05-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss05-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss05-1536x864.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/ss05.png 1688w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1-1024x576.png" alt="" data-id="468" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1.png" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/dialoguescreenshot-1/" class="wp-image-468" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1-1536x863.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dialoguescreenshot-1-2048x1151.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="573" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1-1024x573.png" alt="" data-id="469" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1.png" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/dojoboss1-cropped-1/" class="wp-image-469" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1-1024x573.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1-300x168.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1-768x430.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1-1536x860.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojoboss1-cropped-1-2048x1147.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="574" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1-1024x574.png" alt="" data-id="471" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1.png" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/newicegiantscene-cropped-1/" class="wp-image-471" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1-1024x574.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1-300x168.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1-768x431.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1-1536x861.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/newicegiantscene-cropped-1-2048x1149.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1-1024x576.png" alt="" data-id="470" data-full-url="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1.png" data-link="http://127.0.0.1:10080/wordpress/2022/the-blademistress-trials/dojolighting8-cropped-1/" class="wp-image-470" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1-1024x576.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1-300x169.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1-768x432.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1-1536x864.png 1536w, http://127.0.0.1:10080/wordpress/wp-content/uploads/dojolighting8-cropped-1-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 </div>
 </div>
 
@@ -433,23 +445,24 @@ h5 {
 <h5>Platforms &amp; Languages</h5>
 </div></div><div class="widget widget_block widget_tag_cloud"><div class="widget-content"><p class="alignleft wp-block-tag-cloud"><a href="http://127.0.0.1:10080/wordpress/tag/after-effects/" class="tag-cloud-link tag-link-23 tag-link-position-1" style="font-size: 8pt;" aria-label="After Effects (1 item)">After Effects</a>
 <a href="http://127.0.0.1:10080/wordpress/tag/arnold/" class="tag-cloud-link tag-link-22 tag-link-position-2" style="font-size: 8pt;" aria-label="Arnold (1 item)">Arnold</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/blender/" class="tag-cloud-link tag-link-12 tag-link-position-3" style="font-size: 12.581818181818pt;" aria-label="Blender (2 items)">Blender</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/c/" class="tag-cloud-link tag-link-10 tag-link-position-4" style="font-size: 8pt;" aria-label="C (1 item)">C</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/c-2/" class="tag-cloud-link tag-link-16 tag-link-position-5" style="font-size: 22pt;" aria-label="C# (6 items)">C#</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/d3/" class="tag-cloud-link tag-link-18 tag-link-position-6" style="font-size: 8pt;" aria-label="d3 (1 item)">d3</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/ideum/" class="tag-cloud-link tag-link-17 tag-link-position-7" style="font-size: 8pt;" aria-label="Ideum (1 item)">Ideum</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/illustrator/" class="tag-cloud-link tag-link-14 tag-link-position-8" style="font-size: 15.636363636364pt;" aria-label="Illustrator (3 items)">Illustrator</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/java/" class="tag-cloud-link tag-link-8 tag-link-position-9" style="font-size: 12.581818181818pt;" aria-label="Java (2 items)">Java</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/javascript/" class="tag-cloud-link tag-link-9 tag-link-position-10" style="font-size: 12.581818181818pt;" aria-label="javascript (2 items)">javascript</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/maya/" class="tag-cloud-link tag-link-21 tag-link-position-11" style="font-size: 12.581818181818pt;" aria-label="Maya (2 items)">Maya</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/microsoft-kinect/" class="tag-cloud-link tag-link-24 tag-link-position-12" style="font-size: 8pt;" aria-label="Microsoft Kinect (1 item)">Microsoft Kinect</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/node-js/" class="tag-cloud-link tag-link-20 tag-link-position-13" style="font-size: 8pt;" aria-label="node.js (1 item)">node.js</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/photoshop/" class="tag-cloud-link tag-link-13 tag-link-position-14" style="font-size: 20.218181818182pt;" aria-label="Photoshop (5 items)">Photoshop</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/processing/" class="tag-cloud-link tag-link-3 tag-link-position-15" style="font-size: 12.581818181818pt;" aria-label="Processing (2 items)">Processing</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/react-native/" class="tag-cloud-link tag-link-11 tag-link-position-16" style="font-size: 8pt;" aria-label="React Native (1 item)">React Native</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/rokoko-smartsuit/" class="tag-cloud-link tag-link-25 tag-link-position-17" style="font-size: 12.581818181818pt;" aria-label="Rokoko Smartsuit (2 items)">Rokoko Smartsuit</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/twine/" class="tag-cloud-link tag-link-26 tag-link-position-18" style="font-size: 8pt;" aria-label="Twine (1 item)">Twine</a>
-<a href="http://127.0.0.1:10080/wordpress/tag/unity/" class="tag-cloud-link tag-link-15 tag-link-position-19" style="font-size: 22pt;" aria-label="Unity (6 items)">Unity</a></p></div></div>                        </div>
+<a href="http://127.0.0.1:10080/wordpress/tag/azure-kinect/" class="tag-cloud-link tag-link-28 tag-link-position-3" style="font-size: 8pt;" aria-label="Azure Kinect (1 item)">Azure Kinect</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/blender/" class="tag-cloud-link tag-link-12 tag-link-position-4" style="font-size: 12.581818181818pt;" aria-label="Blender (2 items)">Blender</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/c/" class="tag-cloud-link tag-link-10 tag-link-position-5" style="font-size: 8pt;" aria-label="C (1 item)">C</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/c-2/" class="tag-cloud-link tag-link-16 tag-link-position-6" style="font-size: 22pt;" aria-label="C# (6 items)">C#</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/d3/" class="tag-cloud-link tag-link-18 tag-link-position-7" style="font-size: 8pt;" aria-label="d3 (1 item)">d3</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/ideum/" class="tag-cloud-link tag-link-17 tag-link-position-8" style="font-size: 8pt;" aria-label="Ideum (1 item)">Ideum</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/illustrator/" class="tag-cloud-link tag-link-14 tag-link-position-9" style="font-size: 15.636363636364pt;" aria-label="Illustrator (3 items)">Illustrator</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/java/" class="tag-cloud-link tag-link-8 tag-link-position-10" style="font-size: 12.581818181818pt;" aria-label="Java (2 items)">Java</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/javascript/" class="tag-cloud-link tag-link-9 tag-link-position-11" style="font-size: 12.581818181818pt;" aria-label="javascript (2 items)">javascript</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/maya/" class="tag-cloud-link tag-link-21 tag-link-position-12" style="font-size: 12.581818181818pt;" aria-label="Maya (2 items)">Maya</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/microsoft-kinect/" class="tag-cloud-link tag-link-24 tag-link-position-13" style="font-size: 8pt;" aria-label="Microsoft Kinect (1 item)">Microsoft Kinect</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/node-js/" class="tag-cloud-link tag-link-20 tag-link-position-14" style="font-size: 8pt;" aria-label="node.js (1 item)">node.js</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/photoshop/" class="tag-cloud-link tag-link-13 tag-link-position-15" style="font-size: 20.218181818182pt;" aria-label="Photoshop (5 items)">Photoshop</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/processing/" class="tag-cloud-link tag-link-3 tag-link-position-16" style="font-size: 12.581818181818pt;" aria-label="Processing (2 items)">Processing</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/react-native/" class="tag-cloud-link tag-link-11 tag-link-position-17" style="font-size: 8pt;" aria-label="React Native (1 item)">React Native</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/rokoko-smartsuit/" class="tag-cloud-link tag-link-25 tag-link-position-18" style="font-size: 12.581818181818pt;" aria-label="Rokoko Smartsuit (2 items)">Rokoko Smartsuit</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/twine/" class="tag-cloud-link tag-link-26 tag-link-position-19" style="font-size: 8pt;" aria-label="Twine (1 item)">Twine</a>
+<a href="http://127.0.0.1:10080/wordpress/tag/unity/" class="tag-cloud-link tag-link-15 tag-link-position-20" style="font-size: 22pt;" aria-label="Unity (6 items)">Unity</a></p></div></div>                        </div>
     				</div>
 
     			
@@ -464,7 +477,7 @@ h5 {
             <div class="uk-container uk-container-large">
                 <div class="uk-child-width-1-1 uk-child-width-expand@m uk-flex-middle uk-flex-center" data-uk-grid>
                             <div class="copyright uk-flex-last uk-flex-first@m  uk-text-center uk-text-left@m uk-text-small">
-            2022            &copy;
+            2024            &copy;
             <a href="http://127.0.0.1:10080/wordpress/" rel="home">cat naomi</a>, works on             <a href="https://wordpress.org/" target="_blank" class="uk-text-small">WordPress</a>
         </div>
                 <div class="designer uk-text-center uk-text-right@m uk-text-small">
@@ -482,7 +495,7 @@ h5 {
                 <ul id="menu-main-menu-1" class="offcanvas-navigation uk-nav-default uk-nav-parent-icon" data-uk-nav><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume.pdf">Resume</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </nav>
         </div>
     </div>

@@ -269,7 +269,7 @@ h5 {
                 <ul id="menu-main-menu" class="uk-navbar-nav uk-visible@m"><li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li id="menu-item-374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume-1.pdf">Resume</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </div>
                                 </div>
                     <div class="uk-width-expand">
@@ -315,13 +315,13 @@ h5 {
 				<div class="uk-container uk-container-expand">
 			<div class="loop uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l uk-child-width-1-4@xl" data-uk-grid="">
 			
-<article id="post-127" class="post-127 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-software tag-azure-kinect tag-c-2 tag-microsoft-kinect tag-rokoko-smartsuit tag-unity">
+<article id="post-127" class="post-127 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-art-design category-software tag-azure-kinect tag-c-2 tag-microsoft-kinect tag-rokoko-smartsuit tag-unity">
     <div class="article-content">
         
 	<figure class="featured-media">
 		<div class="featured-media-inner">
 
-			<a class="uk-link-reset" href="http://127.0.0.1:10080/wordpress/2024/luminai/" rel="bookmark"><img width="580" height="580" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/gvu4.png 1278w" sizes="(max-width: 580px) 100vw, 580px" /></a>
+			<a class="uk-link-reset" href="http://127.0.0.1:10080/wordpress/2024/luminai/" rel="bookmark"><img width="580" height="580" src="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" srcset="http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-1024x1024.png 1024w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-300x300.png 300w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-150x150.png 150w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer-768x768.png 768w, http://127.0.0.1:10080/wordpress/wp-content/uploads/LuminAI-Flyer.png 1080w" sizes="(max-width: 580px) 100vw, 580px" /></a>
 		</div> <!-- .featured-media-inner -->
 	</figure> <!-- .featured-media -->
 
@@ -335,7 +335,7 @@ h5 {
 									<div class="post-tags meta-wrapper">
 						<ul><li><a href="http://127.0.0.1:10080/wordpress/tag/azure-kinect/" rel="tag">Azure Kinect</a></li><li><a href="http://127.0.0.1:10080/wordpress/tag/c-2/" rel="tag">C#</a></li><li><a href="http://127.0.0.1:10080/wordpress/tag/microsoft-kinect/" rel="tag">Microsoft Kinect</a></li><li><a href="http://127.0.0.1:10080/wordpress/tag/rokoko-smartsuit/" rel="tag">Rokoko Smartsuit</a></li><li><a href="http://127.0.0.1:10080/wordpress/tag/unity/" rel="tag">Unity</a></li></ul>					</div>
 										<div class="post-date-author meta-wrapper">
-						<a class="date" href="http://127.0.0.1:10080/wordpress/2024/luminai/">January 2024</a> 					</div>
+						<a class="date" href="http://127.0.0.1:10080/wordpress/2024/luminai/">May 2024</a> 					</div>
 					
 			</div>
 
@@ -442,7 +442,7 @@ h5 {
                 <ul id="menu-main-menu-1" class="offcanvas-navigation uk-nav-default uk-nav-parent-icon" data-uk-nav><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume-1.pdf">Resume</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </nav>
         </div>
     </div>

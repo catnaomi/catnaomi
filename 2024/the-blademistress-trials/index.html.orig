@@ -271,7 +271,7 @@ h5 {
                 <ul id="menu-main-menu" class="uk-navbar-nav uk-visible@m"><li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li id="menu-item-374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume-1.pdf">Resume</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </div>
                                 </div>
                     <div class="uk-width-expand">
@@ -298,7 +298,7 @@ h5 {
 <main id="site-content" role="main">
 
 	
-<article id="post-170" class="post-170 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-art-design category-game-dev tag-blender tag-c-2 tag-maya tag-photoshop tag-unity">
+<article id="post-170" class="post-170 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-vr category-art-design category-game-dev category-software tag-blender tag-c-2 tag-maya tag-photoshop tag-unity">
 
 	
 <header class="entry-header">
@@ -309,11 +309,19 @@ h5 {
 			<div class="post-meta-wrapper post-meta-singular post-meta-singular-entry-header-top">
 
 									<div class="post-categories meta-wrapper">
-						<a href="http://127.0.0.1:10080/wordpress/category/3d-vr/" rel="category tag">3D &amp; Virtual Reality (XR)</a>, <a href="http://127.0.0.1:10080/wordpress/category/art-design/" rel="category tag">Art &amp; Design</a>, <a href="http://127.0.0.1:10080/wordpress/category/game-dev/" rel="category tag">Game Development</a>					</div>
+						<a href="http://127.0.0.1:10080/wordpress/category/3d-vr/" rel="category tag">3D &amp; Virtual Reality (XR)</a>, <a href="http://127.0.0.1:10080/wordpress/category/art-design/" rel="category tag">Art &amp; Design</a>, <a href="http://127.0.0.1:10080/wordpress/category/game-dev/" rel="category tag">Game Development</a>, <a href="http://127.0.0.1:10080/wordpress/category/software/" rel="category tag">Software Development</a>					</div>
 					
 			</div>
 
 			<h1 class="entry-title">The Blademistress Trials</h1>
+			<div class="post-meta-wrapper post-meta-singular post-meta-singular-entry-header-bottom">
+
+									<div class="post-sticky meta-wrapper">
+						Featured					</div>
+					
+			</div>
+
+			
 	</div> <!-- .container -->
 
 </header> <!-- .entry-header -->
@@ -350,6 +358,10 @@ h5 {
 
 
 <p>Set in a world of floating islands, Mun, a young swordswoman meets an angel, Antiquity, and they depart on an adventure about time, immortality, apocalypse, and learning to let go.</p>
+
+
+
+<p>Coming soon to itch.io and Steam.</p>
 </div>
 
 
@@ -483,7 +495,7 @@ h5 {
                 <ul id="menu-main-menu-1" class="offcanvas-navigation uk-nav-default uk-nav-parent-icon" data-uk-nav><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://127.0.0.1:10080/wordpress/about-me/">About me</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-374"><a href="/wordpress">Projects</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="http://127.0.0.1:10080/wordpress/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden-resume-1.pdf">Resume</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="/wordpress/wp-content/uploads/CassandraNaomiMonden_resume-u.pdf">Resume</a></li>
 </ul>            </nav>
         </div>
     </div>

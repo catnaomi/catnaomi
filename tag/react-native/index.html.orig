@@ -167,11 +167,11 @@ body:not(.blog) article .featured-media {
 	margin-bottom: 2rem;
 }
 
-figure video, figure img, figure iframe {
+figure video, figure img {
 	max-height: 600px;
 	height: auto;
 	text-align: center;
-	margin: 0 auto 0 auto;
+	margin: auto;
 	display: block;
 }		</style>
 		</head>

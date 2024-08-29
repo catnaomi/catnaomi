@@ -169,11 +169,11 @@ body:not(.blog) article .featured-media {
 	margin-bottom: 2rem;
 }
 
-figure video, figure img, figure iframe {
+figure video, figure img {
 	max-height: 600px;
 	height: auto;
 	text-align: center;
-	margin: 0 auto 0 auto;
+	margin: auto;
 	display: block;
 }		</style>
 		</head>
@@ -255,9 +255,7 @@ figure video, figure img, figure iframe {
 
 
 <div class="wp-block-column">
-<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Silencevid" src="https://player.vimeo.com/video/678993765?h=884898c6b9&amp;dnt=1&amp;app_id=122963" width="580" height="326" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</div><figcaption><em>Video Editing by Robert Marsel</em></figcaption></figure>
+<figure class="wp-block-video"><video controls src="http://127.0.0.1:10080/wordpress/wp-content/uploads/2022/01/Silencevid.mp4"></video></figure>
 
 
 
